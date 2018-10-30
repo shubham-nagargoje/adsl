@@ -1,0 +1,41 @@
+[
+  {
+  "author": "shubham",
+  "title": "Twitter Sentiment Analysis",
+  "tags": ["Machine Learning","Data Analytics"],
+  "body": null,
+  "comment": [{"user":"hannibal","comment_text":"Excellent!","likes":10}]
+},
+
+{
+  "author": "AnilKumar",
+  "title": "Search Engine",
+  "tags": ["information retrieval","data mining"],
+  "body": null,
+  "comment": [{"user":"borat","comment_text":"data set shoud be dynamic","likes":3}]
+},
+
+{
+  "author": "SunilKumar",
+  "title": "Unity Engine",
+  "tags": ["Game Development","Machine Learning"],
+  "body": null,
+  "comment": [{"user":"pablo","comment_text":"unreal engine 4 is more efficient","likes":2}]
+},
+
+{
+  "author": "SunilKumar",
+  "title": "3D Ray Tracing",
+  "tags": ["nvidia","iamai"],
+  "body": null,
+  "comment": [{"user":"shubh","comment_text":"Good!","likes":6}]
+},
+
+{
+  "author": "AnilKumar",
+  "title": "TensorFlow for Image Classification",
+  "tags": ["",""],
+  "body": null,
+  "comment": [{"user":"andrewIng","comment_text":"performance is unacceptable","likes":4}]
+}
+]

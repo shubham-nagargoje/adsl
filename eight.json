@@ -1,0 +1,235 @@
+
+  {
+    "stud_id": 1,
+    "stud_name": "shubh",
+    "branch": "computer",
+    "address": [
+      "kothrud",
+      "pune",
+      411038
+    ],
+    "subjects": [
+      {
+        "sub_name": "dbms",
+        "score": 67
+      },
+      {
+        "sub_name": "toc",
+        "score": 89
+      }
+    ],
+    "area_of_interest": [
+      "dbms",
+      "networking"
+    ]
+  }
+  {
+    "stud_id": 2,
+    "stud_name": "ruchik",
+    "branch": "computer",
+    "address": [
+      "bavdhan",
+      "pune",
+      411021
+    ],
+    "subjects": [
+      {
+        "sub_name": "cn",
+        "score": 99
+      }
+    ],
+    "area_of_interest": [
+      "python",
+      "mongodb"
+    ]
+  }
+  {
+    "stud_id": 3,
+    "stud_name": "saurabh",
+    "branch": "IT",
+    "address": [
+      "bavdhan",
+      "pune",
+      411021
+    ],
+    "subjects": [
+      {
+        "sub_name": "dbms",
+        "score": 67
+      },
+      {
+        "sub_name": "toc",
+        "score": 89
+      }
+    ],
+    "area_of_interest": [
+      "machine learning",
+      "ai"
+    ]
+  }
+  {
+    "stud_id": 4,
+    "stud_name": "jacob",
+    "branch": "computer",
+    "address": [
+      "mulund",
+      "mumbai",
+      400001
+    ],
+    "subjects": [
+      {
+        "sub_name": "ads",
+        "score": 67
+      },
+      {
+        "sub_name": "os",
+        "score": 89
+      }
+    ],
+    "area_of_interest": [
+      "python",
+      "mongodb"
+    ]
+  }
+  {
+    "stud_id": 5,
+    "stud_name": "rushi",
+    "branch": "computer",
+    "address": [
+      "swargate",
+      "pune",
+      411005
+    ],
+    "subjects": [
+      {
+        "sub_name": "ads",
+        "score": 76
+      },
+      {
+        "sub_name": "os",
+        "score": 78
+      }
+    ],
+    "area_of_interest": [
+      "data analytics"
+    ]
+  }
+  {
+    "stud_id": 6,
+    "stud_name": "shivam",
+    "branch": "IT",
+    "address": [
+      "bavdhan",
+      "pune",
+      411021
+    ],
+    "subjects": [
+      {
+        "sub_name": "ads",
+        "score": 76
+      },
+      {
+        "sub_name": "os",
+        "score": 78
+      }
+    ],
+    "area_of_interest": [
+      "dbms",
+      "gamification"
+    ]
+  }
+  {
+    "stud_id": 7,
+    "stud_name": "arnav",
+    "branch": "computer",
+    "address": [
+      "juhu",
+      "mumbai",
+      400013
+    ],
+    "subjects": [
+      {
+        "sub_name": "ads",
+        "score": 76
+      },
+      {
+        "sub_name": "microprocessor",
+        "score": 78
+      }
+    ],
+    "area_of_interest": [
+      "data analytics",
+      "os"
+    ]
+  }
+  {
+    "stud_id": 8,
+    "stud_name": "lucifer",
+    "branch": "IT",
+    "address": [
+      "juhu",
+      "mumbai",
+      400013
+    ],
+    "subjects": [
+      {
+        "sub_name": "ads",
+        "score": 76
+      },
+      {
+        "sub_name": "microprocessor",
+        "score": 78
+      }
+    ],
+    "area_of_interest": [
+      "python",
+      "mongodb"
+    ]
+  }
+  {
+    "stud_id": 9,
+    "stud_name": "tanmay",
+    "branch": "computer",
+    "address": [
+      "midc",
+      "aurangabad",
+      421001
+    ],
+    "subjects": [
+      {
+        "sub_name": "ads",
+        "score": 76
+      },
+      {
+        "sub_name": "microprocessor",
+        "score": 78
+      }
+    ],
+    "area_of_interest": [
+      "machine learning"
+    ]
+  }
+  {
+    "stud_id": 10,
+    "stud_name": "hannibal",
+    "branch": "IT",
+    "address": [
+      "midc",
+      "aurangabad",
+      421001
+    ],
+    "subjects": [
+      {
+        "sub_name": "ads",
+        "score": 76
+      },
+      {
+        "sub_name": "microprocessor",
+        "score": 78
+      }
+    ],
+    "area_of_interest": [
+      "big data"
+    ]
+  }
+
